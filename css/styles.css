@@ -1,8 +1,19 @@
 h1 {
     color: green;
     font-size: 50px;
+
+
 }
 
 main {
     font-size: 25px;
+}
+
+img {
+  margin-top: auto;
+  margin-bottom: auto;
+}
+
+header {
+    display: flex
 }
