@@ -1,0 +1,26 @@
+h1 {
+    font-size: 50px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 25px;
+}
+
+main {
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+div {
+    width: 50%;
+    margin: auto;
+}
