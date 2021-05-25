@@ -1,8 +1,8 @@
 h1 {
     color: green;
     font-size: 50px;
-margin-right: auto;
-    margin-left: 40px;
+    line-height: 100px;
+
 
 }
 
@@ -13,24 +13,25 @@ main {
 }
 
 img {
-  margin-top: auto;
-  margin-bottom: auto;
+margin-top: auto;
+margin-bottom: auto;
 
 
 }
 
 .line {
     display: flex;
-    width: 70%;
-    margin: auto;
+    justify-content: center;
+
     
 }
 
 
 
-.all {
+main{
     width: 70%;
     margin: auto;
+
    
 }
 
