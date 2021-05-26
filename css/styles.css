@@ -2,6 +2,7 @@ h1 {
     color: green;
     font-size: 50px;
     line-height: 100px;
+    margin-left: 20px;
 
 
 }
@@ -40,14 +41,21 @@ main{
 .DivLink{
     position:relative;
     width:300px;
-    background-color:skyblue;
-    border:1px solid blue;
+    height: 50px;
+background: skyblue;
+    /* border:1px solid blue; */
     text-align: center;
+    padding-top: 15px;
+    padding-bottom: 5px;
     font-weight: bold;
     color: blue;
     margin-top: 20px;
     margin-left: 40px;
+    border-radius: 4px;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
 }
+
+
 
 .DivLink .Link{
     /* display: block; */
@@ -60,4 +68,9 @@ main{
 
 .button {
     display: flex;
+    justify-content: center;
+}
+
+p {
+    text-align: center;
 }
