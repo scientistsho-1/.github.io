@@ -21,6 +21,10 @@ main {
     justify-content: center;
 }
 
+.setumei {
+    margin-bottom: 50px;
+}
+
 a {
     height: 50px;
     background: hsl(180, 100%, 40%);
